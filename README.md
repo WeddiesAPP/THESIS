@@ -1,6 +1,6 @@
 # Uncertainty-Aware Image Captioning with BLIP-2
 
-This repository contains the code used for my MSc Artificial Intelligence thesis:  
+This repository contains a small part of the code used for my MSc Artificial Intelligence thesis:  
 **"Integrating and Calibrating Uncertainty Expressions in Image Captioning Systems"** (Utrecht University, 2025). **(https://studenttheses.uu.nl/handle/20.500.12932/49908)**
 
 The project explores how to fine-tune **BLIP-2 (OPT-2.7B)** with **LoRA** and **8-bit quantization** to generate captions that include **uncertainty expressions**. The dataset consists of images annotated with modified captions (scene, action, rationale) and corresponding confidence scores. The aim is to train a model that not only describes images but also expresses calibrated levels of certainty.
